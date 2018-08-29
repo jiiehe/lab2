@@ -14,7 +14,7 @@ namespace Lab2
         /// <param name="args"></param>
         static void Main(string[] args)
         {
-            Console.WriteLine("hello world");
+            Console.WriteLine("this is a wrong information");
             Console.Read();
         }
     }
