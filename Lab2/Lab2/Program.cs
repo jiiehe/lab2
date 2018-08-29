@@ -9,7 +9,7 @@ namespace Lab2
     class Program
     {
         /// <summary>
-        /// 
+        /// comment is wrong
         /// </summary>
         /// <param name="args"></param>
         static void Main(string[] args)
